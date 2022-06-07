@@ -1,0 +1,5 @@
+package com.example.JpaRepository.entitites;
+
+public class User {
+
+}

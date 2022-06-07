@@ -1,0 +1,5 @@
+package com.example.JpaRepository.repositories;
+
+public interface UserRepository {
+
+}
